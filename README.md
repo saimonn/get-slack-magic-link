@@ -8,7 +8,7 @@ It's using [puppeteer](https://github.com/puppeteer/puppeteer/) to perform the a
 
 ## Usage (Command Line)
 
-I recommend using this tool with [gopass](https://www.gopass.pw/) to provide password and OTP as environment variables.
+I recommend using this tool with [gopass](https://www.gopass.pw/) or [oathtool](https://www.nongnu.org/oath-toolkit/) to provide password and OTP as environment variables.
 
 see `get-slack-magic-link.sh` for an example usage.
 
